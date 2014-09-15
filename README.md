@@ -31,7 +31,7 @@ For detailed explanations of what the program does, see [Part 3](http://johncarl
 
 #### R / average-link-strength.R
 
-This fie  has the average link strength S as computed by `ludescher.R` at 10-day intervals, starting from day 730 and going until day 12040, where day 1 is the first of January 1948.  For an explanation see  [Part 4](http://johncarlosbaez.wordpress.com/2014/07/08/el-nino-project-part-4/) of the El Ni&ntilde;o Project series.
+This file has the average link strength S as computed by `ludescher.R` at 10-day intervals, starting from day 730 and going until day 12040, where day 1 is the first of January 1948.  For an explanation see  [Part 4](http://johncarlosbaez.wordpress.com/2014/07/08/el-nino-project-part-4/) of the El Ni&ntilde;o Project series.
 
 #### R / grj / covariances-basin-vs-rest.R
 
