@@ -29,9 +29,13 @@ This program is aimed at replicating the  [paper by Ludescher *et al*](http://ww
 
 For detailed explanations of what the program does, see [Part 3](http://johncarlosbaez.wordpress.com/2014/07/01/el-nino-project-part-3/) and [Part 4](http://johncarlosbaez.wordpress.com/2014/07/08/el-nino-project-part-4/) of the El Ni&ntilde;o Project series.
 
-#### R / average-link-strength.R
+#### R / average-link-strength.txt
 
 This file has the average link strength S as computed by `ludescher.R` at 10-day intervals, starting from day 730 and going until day 12040, where day 1 is the first of January 1948.  For an explanation see  [Part 4](http://johncarlosbaez.wordpress.com/2014/07/08/el-nino-project-part-4/) of the El Ni&ntilde;o Project series.
+
+#### R / average-link-strength-1948-2013.txt
+
+The second column this file lists the average link strengths S as computed by `ludescher.R` at 10-day intervals, starting from day 730, and going until day 24090, where day 1 is the first of January 1948.  The first column numbers these items from 1 to 2337.  For an explanation see  [Part 4](http://johncarlosbaez.wordpress.com/2014/07/08/el-nino-project-part-4/) of the El Ni&ntilde;o Project series.
 
 #### R / grj / covariances-basin-vs-rest.R
 
